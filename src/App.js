@@ -13,15 +13,15 @@ const appRouter = createBrowserRouter([
 		element: <Body />,
 		children: [
 			{
-				path: "/namaste-youtube/",
+				path: "/",
 				element: <MainContainer />,
 			},
 			{
-				path: "/namaste-youtube/watch",
+				path: "/watch",
 				element: <WatchPage />,
 			},
 			{
-				path: "/namaste-youtube/results",
+				path: "/results",
 				element: <SearchResults />,
 			},
 		],
