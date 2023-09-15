@@ -1,2 +1,2 @@
-## Debouncing : 
-Debouncing enforces that a function not be called again until a certain amount of time has passed without it being called. For example, execute this function only if 100 milliseconds have passed without it being called.
+## Namaste Youtube
+This is a react youtube clone. An optimized and cache live search is implemented bu using concept Debouncing and Redux. Also an optimized Live Chat, Nested Comment and Reply features are implemented.
