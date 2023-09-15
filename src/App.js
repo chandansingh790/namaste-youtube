@@ -9,11 +9,11 @@ import SearchResults from "./components/SearchResults";
 
 const appRouter = createBrowserRouter([
 	{
-		path: "/namaste-youtube/",
+		path: "/namaste-youtube",
 		element: <Body />,
 		children: [
 			{
-				path: "/",
+				path: "/namaste-youtube",
 				element: <MainContainer />,
 			},
 			{
